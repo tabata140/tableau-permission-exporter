@@ -14,14 +14,14 @@ GUI tool for bulk exporting Tableau permissions with user-level analysis.
 - Python 3.8+
 - Tableau Cloud account with Personal Access Token
 
-## 🚀 Quick Start
+## Quick Start
 
 ### For Non-Technical Users (Easy!)
 
 **Download and run - no installation needed:**
 
 1. Click here: [Download TableauPermissionExporter.exe](https://github.com/tabata140/tableau-permission-exporter/releases/latest)
-2. Find the downloaded file (usually in your Downloads folder)
+2. Find the downloaded file (Tableau-Permission-Exporter.exe)
 3. Double-click `TableauPermissionExporter.exe`
 4. If Windows shows a warning:
    - Click "More info"
