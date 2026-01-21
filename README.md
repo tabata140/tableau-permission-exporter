@@ -30,8 +30,6 @@ GUI tool for bulk exporting Tableau permissions with user-level analysis.
 
 **That's it!** No Python, no coding, no technical setup required.
 
----
-
 ### For Developers (Run from Source)
 
 <details>
